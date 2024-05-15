@@ -13,7 +13,6 @@ declare module 'vue' {
     ChatDefaultContent: typeof import('./src/components/ChatDefaultContent.vue')['default']
     EditProfile: typeof import('./src/components/EditProfile.vue')['default']
     EditProfilePopup: typeof import('./src/components/EditProfilePopup.vue')['default']
-    ElButton: typeof import('element-plus/es')['ElButton']
     ElCheckbox: typeof import('element-plus/es')['ElCheckbox']
     ElDropdown: typeof import('element-plus/es')['ElDropdown']
     ElDropdownItem: typeof import('element-plus/es')['ElDropdownItem']
